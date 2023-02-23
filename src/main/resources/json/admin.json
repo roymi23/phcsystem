@@ -1,0 +1,18 @@
+[
+  {
+    "firstName": "First",
+    "lastName": "Admin1",
+    "userName": "admin1",
+    "password": "phc1",
+    "email": "admin1.phc@gmail.com",
+    "authorities": "ADMIN"
+  },
+  {
+    "firstName": "Second",
+    "lastName": "Admin2",
+    "userName": "admin2",
+    "password": "phc2",
+    "email": "admin2.phc@gmail.com",
+    "authorities": "ADMIN"
+  }
+]

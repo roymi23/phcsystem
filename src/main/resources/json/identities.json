@@ -1,0 +1,34 @@
+[
+  {
+    "firstName": "Ancy",
+    "lastName": "pushakkara",
+    "userName": "anmap",
+    "password": "anmap",
+    "email": "ancy.puzhakkara@gmail.com",
+    "authorities": "USER"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "pushakkara",
+    "userName": "jemap",
+    "password": "jemap",
+    "email": "jess.puzhakkara@gmail.com",
+    "authorities": "USER"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "pushakkara",
+    "userName": "jomap",
+    "password": "jomap",
+    "email": "joel.puzhakkara@gmail.com",
+    "authorities": "USER"
+  },
+  {
+    "firstName": "Roy",
+    "lastName": "pushakkara",
+    "userName": "romap",
+    "password": "romap",
+    "email": "roy.puzhakkara@gmail.com",
+    "authorities": "ADMIN,USER"
+  }
+]

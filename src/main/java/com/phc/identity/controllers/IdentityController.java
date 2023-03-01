@@ -19,6 +19,7 @@ import java.util.Optional;
 @RestController
 @SecurityRequirement(name = "identityapi")
 @RequestMapping("/phc")
+@CrossOrigin(origins = "http://localhost:3000")
 public class IdentityController {
 
     @Autowired
